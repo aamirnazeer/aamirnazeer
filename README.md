@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aamirnazeer
-- 👀 I’m interested in becoming a front end developer
-- 🌱 I’m currently learning react
+- 👀 I’m interested in joining a product based company as a software engineer
+- 🌱 I’m currently coding/learning javascript and react
 - 📫 How to reach me: aamirnazeerbhat@gmail.com
 
 <!---
